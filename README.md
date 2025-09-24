@@ -4,7 +4,7 @@
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/npm/heroicons@2.0.18/24/outline/user-circle.svg" width="22" height="22"/> Qui suis-je ❓
+## <img src="https://img.icons8.com/?size=100&id=7820&format=png&color=048b9a" width="20" height="20"/> Qui suis-je ?
 
 Fort d'une expérience en communication et passionné par les technologies, j'ai effectué une reconversion vers le 💻 **développement web**.
 Aujourd'hui, armé de solides compétences techniques et d'une approche centrée utilisateur, je suis **prêt à relever mon prochain défi professionnel** : contribuer au développement d'applications 🌐 web modernes et intuitives.
@@ -13,13 +13,21 @@ Toujours en quête d'apprentissage, je combine créativité et rigueur technique
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/npm/heroicons@2.0.18/24/outline/cpu-chip.svg" width="22" height="22"/> Que sais-je ❓
+## <img src="https://img.icons8.com/?size=100&id=1581&format=png&color=048b9a" width="20" height="20"/> Que sais-je ?
 
-<table>
+<table align="center">
+<thead>
 <tr>
-<td valign="top" width="25%">
+<th width="25%" align="center"><b>Frontend</b></th>
+<th width="25%" align="center"><b>Backend</b></th>
+<th width="25%" align="center"><b>Databases</b></th>
+<th width="25%" align="center"><b>Tools</b></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center" valign="middle">
 
-### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -29,9 +37,8 @@ Toujours en quête d'apprentissage, je combine créativité et rigueur technique
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
 </td>
-<td valign="top" width="25%">
+<td align="center" valign="middle">
 
-### Backend
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -39,16 +46,14 @@ Toujours en quête d'apprentissage, je combine créativité et rigueur technique
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 </td>
-<td valign="top" width="25%">
+<td align="center" valign="middle">
 
-### Bases de données
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </td>
-<td valign="top" width="25%">
+<td align="center" valign="middle">
 
-### Outils
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -57,22 +62,23 @@ Toujours en quête d'apprentissage, je combine créativité et rigueur technique
 
 </td>
 </tr>
+</tbody>
 </table>
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/npm/heroicons@2.0.18/24/outline/code-bracket.svg" width="22" height="22"/> Que fais-je ❓
+## <img src="https://img.icons8.com/?size=100&id=11240&format=png&color=048b9a" width="20" height="20"/> Que fais-je ?
 
 **Encore un peu de patience : il y en aura, des choses à voir... 🔎**
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/npm/heroicons@2.0.18/24/outline/chat-bubble-left-right.svg" width="22" height="22"/> Comment échange-je ❓
+## <img src="https://img.icons8.com/?size=100&id=GT6L6Gn3DzSA&format=png&color=048b9a" width="20" height="20"/> Comment échange-je ?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/quentindetré)
 [![Email](https://img.shields.io/badge/Mail-Contact-green?logo=gmail&style=for-the-badge)](mailto:quentindetre@yahoo.com)
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/npm/heroicons@2.0.18/24/outline/chart-bar.svg" width="20" height="20"/> Comment contribue-je ❓
+## <img src="https://img.icons8.com/?size=100&id=15&format=png&color=048b9a" width="20" height="20"/> Comment contribue-je ?
 ![GallamQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=GallamQ&show_icons=true&theme=nord)
