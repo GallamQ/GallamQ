@@ -2,26 +2,26 @@
   <img src="https://raw.githubusercontent.com/GallamQ/GallamQ/main/assets/banner.png" alt="Bannière profil GallamQ" width="1000" height="250"/>
 </p>
 
----
+<hr style="border: none; height: 2px; background-color: #048b9a; margin: 20px 0;">
 
-## <img src="https://img.icons8.com/?size=100&id=7820&format=png&color=048b9a" width="20" height="20"/> Qui suis-je ?
+## <img src="https://img.icons8.com/?size=100&id=7820&format=png&color=048b9a" width="18" height="18"/> Qui suis-je ?
 
 Fort d'une expérience en communication et passionné par les technologies, j'ai effectué une reconversion vers le 💻 **développement web**.
 Aujourd'hui, armé de solides compétences techniques et d'une approche centrée utilisateur, je suis **prêt à relever mon prochain défi professionnel** : contribuer au développement d'applications 🌐 web modernes et intuitives.
 
 Toujours en quête d'apprentissage, je combine créativité et rigueur technique pour donner vie aux projets qui me sont confiés.
 
----
+<hr style="border: none; height: 2px; background-color: #048b9a; margin: 20px 0;">
 
-## <img src="https://img.icons8.com/?size=100&id=1581&format=png&color=048b9a" width="20" height="20"/> Que sais-je ?
+## <img src="https://img.icons8.com/?size=100&id=1581&format=png&color=048b9a" width="18" height="18"/> Que sais-je ?
 
 <table align="center">
 <thead>
 <tr>
-<th width="25%" align="center"><b>Frontend</b></th>
-<th width="25%" align="center"><b>Backend</b></th>
-<th width="25%" align="center"><b>Databases</b></th>
-<th width="25%" align="center"><b>Tools</b></th>
+<th width="25%" align="center"><b>FRONTEND</b></th>
+<th width="25%" align="center"><b>BACKEND</b></th>
+<th width="25%" align="center"><b>DATABASES</b></th>
+<th width="25%" align="center"><b>TOOLS</b></th>
 </tr>
 </thead>
 <tbody>
@@ -65,20 +65,21 @@ Toujours en quête d'apprentissage, je combine créativité et rigueur technique
 </tbody>
 </table>
 
----
+<hr style="border: none; height: 2px; background-color: #048b9a; margin: 20px 0;">
 
-## <img src="https://img.icons8.com/?size=100&id=11240&format=png&color=048b9a" width="20" height="20"/> Que fais-je ?
+## <img src="https://img.icons8.com/?size=100&id=11240&format=png&color=048b9a" width="18" height="18"/> Que fais-je ?
 
-**Encore un peu de patience : il y en aura, des choses à voir... 🔎**
+**Encore un peu de patience : il y en aura, des choses à voir... 👀**
 
----
+<hr style="border: none; height: 2px; background-color: #048b9a; margin: 20px 0;">
 
-## <img src="https://img.icons8.com/?size=100&id=GT6L6Gn3DzSA&format=png&color=048b9a" width="20" height="20"/> Comment échange-je ?
+## <img src="https://img.icons8.com/?size=100&id=GT6L6Gn3DzSA&format=png&color=048b9a" width="18" height="18"/> Comment échange-je ?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/quentindetré)
-[![Email](https://img.shields.io/badge/Mail-Contact-green?logo=gmail&style=for-the-badge)](mailto:quentindetre@yahoo.com)
+[<img src="https://img.icons8.com/?size=100&id=8808&format=png&color=048b9a" width="28" height="28"/>](https://www.linkedin.com/in/quentindetr%C3%A9/) [**LinkedIn**](https://www.linkedin.com/in/quentindetr%C3%A9/)
+[<img src="https://img.icons8.com/?size=100&id=G3F1h1aX2vpT&format=png&color=000000" width="28" height="28"/>](mailto:quentindetre@yahoo.com) [**Yahoo**](mailto:quentindetre@yahoo.com)
 
----
+<hr style="border: none; height: 2px; background-color: #048b9a; margin: 20px 0;">
 
-## <img src="https://img.icons8.com/?size=100&id=15&format=png&color=048b9a" width="20" height="20"/> Comment contribue-je ?
+## <img src="https://img.icons8.com/?size=100&id=15&format=png&color=048b9a" width="18" height="18"/> Comment contribue-je ?
+
 ![GallamQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=GallamQ&show_icons=true&theme=nord)
