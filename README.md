@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/GallamQ/GallamQ/main/assets/banner.png" alt="Bannière profil GallamQ" width="1000" height="250"/>
 </p>
 
-<hr style="border: none; height: 2px; background-color: #048b9a; margin: 20px 0;">
+---
 
 ## <img src="https://img.icons8.com/?size=100&id=7820&format=png&color=048b9a" width="18" height="18"/> Qui suis-je ?
 
@@ -11,7 +11,7 @@ Aujourd'hui, armé de solides compétences techniques et d'une approche centrée
 
 Toujours en quête d'apprentissage, je combine créativité et rigueur technique pour donner vie aux projets qui me sont confiés.
 
-<hr style="border: none; height: 2px; background-color: #048b9a; margin: 20px 0;">
+---
 
 ## <img src="https://img.icons8.com/?size=100&id=1581&format=png&color=048b9a" width="18" height="18"/> Que sais-je ?
 
@@ -65,21 +65,30 @@ Toujours en quête d'apprentissage, je combine créativité et rigueur technique
 </tbody>
 </table>
 
-<hr style="border: none; height: 2px; background-color: #048b9a; margin: 20px 0;">
+---
 
 ## <img src="https://img.icons8.com/?size=100&id=11240&format=png&color=048b9a" width="18" height="18"/> Que fais-je ?
 
 **Encore un peu de patience : il y en aura, des choses à voir... 👀**
 
-<hr style="border: none; height: 2px; background-color: #048b9a; margin: 20px 0;">
-
-## <img src="https://img.icons8.com/?size=100&id=GT6L6Gn3DzSA&format=png&color=048b9a" width="18" height="18"/> Comment échange-je ?
-
-[<img src="https://img.icons8.com/?size=100&id=8808&format=png&color=048b9a" width="28" height="28"/>](https://www.linkedin.com/in/quentindetr%C3%A9/) [**LinkedIn**](https://www.linkedin.com/in/quentindetr%C3%A9/)
-[<img src="https://img.icons8.com/?size=100&id=G3F1h1aX2vpT&format=png&color=000000" width="28" height="28"/>](mailto:quentindetre@yahoo.com) [**Yahoo**](mailto:quentindetre@yahoo.com)
-
-<hr style="border: none; height: 2px; background-color: #048b9a; margin: 20px 0;">
+---
 
 ## <img src="https://img.icons8.com/?size=100&id=15&format=png&color=048b9a" width="18" height="18"/> Comment contribue-je ?
 
-![GallamQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=GallamQ&show_icons=true&theme=nord)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GallamQ&show_icons=true&bg_color=30,ffffff,f8fafc&title_color=048b9a&icon_color=048b9a&text_color=374151" alt="GallamQ's GitHub stats"/>
+</p>
+
+---
+
+## <img src="https://img.icons8.com/?size=100&id=GT6L6Gn3DzSA&format=png&color=048b9a" width="18" height="18"/> Comment échange-je ?
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/quentindetr%C3%A9/">
+    <img src="https://img.icons8.com/?size=100&id=8808&format=png&color=0e76a8" width="56" height="56"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:quentindetre@yahoo.com">
+    <img src="https://img.icons8.com/?size=100&id=G3F1h1aX2vpT&format=png&color=000000" width="56" height="56"/>
+  </a>
+</p>
