@@ -1,3 +1,13 @@
+<style>
+a img {
+  text-decoration: none;
+  border-bottom: none;
+}
+a {
+  text-decoration: none;
+}
+</style>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/GallamQ/GallamQ/main/assets/banner.png" alt="Bannière profil GallamQ" width="1000" height="250"/>
 </p>
