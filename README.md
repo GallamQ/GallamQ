@@ -84,10 +84,5 @@ Toujours en quête d'apprentissage, je combine créativité et rigueur technique
 ## <img src="https://img.icons8.com/?size=100&id=GT6L6Gn3DzSA&format=png&color=048b9a" width="18" height="18"/> Comment échange-je ?
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/quentindetr%C3%A9/">
-    <img src="https://img.icons8.com/?size=100&id=8808&format=png&color=0e76a8" width="56" height="56"/>
-  </a>
-  <a href="mailto:quentindetre@yahoo.com">
-    <img src="https://img.icons8.com/?size=100&id=G3F1h1aX2vpT&format=png&color=000000" width="56" height="56"/>
-  </a>
+  <a href="https://www.linkedin.com/in/quentindetr%C3%A9/"><img src="https://img.icons8.com/?size=100&id=8808&format=png&color=0e76a8" width="56" height="56" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:quentindetre@yahoo.com"><img src="https://img.icons8.com/?size=100&id=G3F1h1aX2vpT&format=png&color=000000" width="56" height="56" alt="Yahoo"/></a>
 </p>
