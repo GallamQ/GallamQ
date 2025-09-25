@@ -1,13 +1,3 @@
-<style>
-a img {
-  text-decoration: none;
-  border-bottom: none;
-}
-a {
-  text-decoration: none;
-}
-</style>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/GallamQ/GallamQ/main/assets/banner.png" alt="Bannière profil GallamQ" width="1000" height="250"/>
 </p>
@@ -97,7 +87,6 @@ Toujours en quête d'apprentissage, je combine créativité et rigueur technique
   <a href="https://www.linkedin.com/in/quentindetr%C3%A9/">
     <img src="https://img.icons8.com/?size=100&id=8808&format=png&color=0e76a8" width="56" height="56"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:quentindetre@yahoo.com">
     <img src="https://img.icons8.com/?size=100&id=G3F1h1aX2vpT&format=png&color=000000" width="56" height="56"/>
   </a>
