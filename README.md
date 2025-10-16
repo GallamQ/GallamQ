@@ -69,7 +69,11 @@ Toujours en quête d'apprentissage, je combine créativité et rigueur technique
 
 ## <img src="https://img.icons8.com/?size=100&id=11240&format=png&color=048b9a" width="18" height="18"/> Que fais-je ?
 
-**Encore un peu de patience : il y en aura, des choses à voir... 👀**
+<div align="center">
+
+[![Clash Royale Bot](https://github-readme-stats.vercel.app/api/pin/?username=GallamQ&repo=clash-royale-bot&title_color=048b9a&icon_color=048b9a&text_color=374151&bg_color=ffffff)](https://github.com/GallamQ/clash-royale-bot)
+
+</div>
 
 ---
 
