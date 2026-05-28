@@ -6,63 +6,64 @@
 
 ## <img src="https://img.icons8.com/?size=100&id=7820&format=png&color=048b9a" width="18" height="18"/> Qui suis-je ?
 
-Fort d'une expérience en communication et passionné par les technologies, j'ai effectué une reconversion vers le 💻 **développement web**.
-Aujourd'hui, armé de solides compétences techniques et d'une approche centrée utilisateur, je suis **prêt à relever mon prochain défi professionnel** : contribuer au développement d'applications 🌐 web modernes et intuitives.
+Fort d'une expérience en communication et passionné par les technologies, j'ai effectué une reconversion vers le **développement web**.
+Aujourd'hui, armé de solides compétences techniques et d'une approche centrée utilisateur, je suis **prêt à relever mon prochain défi professionnel** : contribuer au développement d'applications web modernes et intuitives.
 
 Toujours en quête d'apprentissage, je combine créativité et rigueur technique pour donner vie aux projets qui me sont confiés.
 
 ---
 
-## <img src="https://img.icons8.com/?size=100&id=1581&format=png&color=048b9a" width="18" height="18"/> Que sais-je ?
+## <img src="https://img.icons8.com/?size=100&id=37917&format=png&color=048b9a" width="18" height="18"/> Qu'ai-je appris ?
 
-<table align="center">
-<thead>
+<table border="0" cellspacing="0" cellpadding="12">
 <tr>
-<th width="25%" align="center"><b>FRONTEND</b></th>
-<th width="25%" align="center"><b>BACKEND</b></th>
-<th width="25%" align="center"><b>DATABASES</b></th>
-<th width="25%" align="center"><b>TOOLS</b></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="center" valign="middle">
+<td width="65%" valign="top">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+**Parcours en communication**
+
+Détenteur d'un bachelier en communication obtenu à la HEPL, j'ai exercé en tant que community manager chez Granaline avant d'intégrer le Service Communication de la Ville de Liège comme Chargé de Communication. Deux années touche-à-tout, entre rédaction, coordination d'événements et gestion d'outils numériques — une expérience qui m'a appris à m'adapter, à produire et à coordonner dans des environnements très différents.
 
 </td>
-<td align="center" valign="middle">
+<td width="35%" valign="middle" align="center">
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-
-</td>
-<td align="center" valign="middle">
-
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-</td>
-<td align="center" valign="middle">
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+[![parcours-communication](https://github-readme-stats.vercel.app/api/pin/?username=GallamQ&repo=parcours-communication&title_color=4F049A&icon_color=4F049A&text_color=374151&bg_color=ffffff&cache_seconds=86400)](https://github.com/GallamQ/parcours-communication)
 
 </td>
 </tr>
-</tbody>
+</table>
+
+<table border="0" cellspacing="0" cellpadding="12">
+<tr>
+<td width="35%" valign="middle" align="center">
+
+[![hub-formation](https://github-readme-stats.vercel.app/api/pin/?username=GallamQ&repo=technifutur-formation&title_color=9A0404&icon_color=9A0404&text_color=374151&bg_color=ffffff&cache_seconds=86400)](https://github.com/GallamQ/technifutur-formation)
+
+</td>
+<td width="65%" valign="top">
+
+**HUB Formation**
+
+Via le FOREM, j'ai intégré la formation Développeur Web Full Stack de Technifutur. Des bases algorithmiques aux premiers projets full stack, un rythme intense qui forge autant qu'il enseigne. Et surtout, une façon de penser que l'on ne désapprend plus.
+
+</td>
+</tr>
+</table>
+
+<table border="0" cellspacing="0" cellpadding="12">
+<tr>
+<td width="65%" valign="top">
+
+**Expériences professionnelles**
+
+Huit semaines au sein de la startup CarWashFlow, dans un environnement technique exigeant et en grande partie nouveau pour moi. Dashboard interne, intégration Stripe, site web public — le tout dans une Clean Architecture. Une expérience aussi dense qu'enrichissante.
+
+</td>
+<td width="35%" valign="middle" align="center">
+
+[![experiences-professionnelles](https://github-readme-stats.vercel.app/api/pin/?username=GallamQ&repo=experiences-professionnelles&title_color=04369A&icon_color=04369A&text_color=374151&bg_color=ffffff&cache_seconds=86400)](https://github.com/GallamQ/experiences-professionnelles)
+
+</td>
+</tr>
 </table>
 
 ---
@@ -71,7 +72,7 @@ Toujours en quête d'apprentissage, je combine créativité et rigueur technique
 
 <div align="center">
 
-[![Clash Royale Bot](https://github-readme-stats.vercel.app/api/pin/?username=GallamQ&repo=clash-royale-bot&title_color=048b9a&icon_color=048b9a&text_color=374151&bg_color=ffffff)](https://github.com/GallamQ/clash-royale-bot)
+[![Clash Royale Bot](https://github-readme-stats.vercel.app/api/pin/?username=GallamQ&repo=clash-royale-bot&title_color=048b9a&icon_color=048b9a&text_color=374151&bg_color=ffffff&cache_seconds=86400)](https://github.com/GallamQ/clash-royale-bot)
 
 </div>
 
@@ -80,7 +81,11 @@ Toujours en quête d'apprentissage, je combine créativité et rigueur technique
 ## <img src="https://img.icons8.com/?size=100&id=15&format=png&color=048b9a" width="18" height="18"/> Comment contribue-je ?
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GallamQ&show_icons=true&bg_color=30,ffffff,f8fafc&title_color=048b9a&icon_color=048b9a&text_color=374151" alt="GallamQ's GitHub stats"/>
+  <img src="https://www.codewars.com/users/GallamQ/badges/large" alt="Codewars badge GallamQ"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GallamQ&show_icons=true&bg_color=30,ffffff,f8fafc&title_color=048b9a&icon_color=048b9a&text_color=374151&cache_seconds=86400" alt="GallamQ's GitHub stats"/>
 </p>
 
 ---
