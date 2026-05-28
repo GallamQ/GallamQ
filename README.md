@@ -36,7 +36,7 @@ Détenteur d'un bachelier en communication obtenu à la HEPL, j'ai exercé en ta
 <tr>
 <td width="35%" valign="middle" align="center">
 
-[![hub-formation](https://github-readme-stats.vercel.app/api/pin/?username=GallamQ&repo=technifutur-formation&title_color=9A0404&icon_color=9A0404&text_color=374151&bg_color=ffffff&cache_seconds=86400)](https://github.com/GallamQ/technifutur-formation)
+[![hub-formation](https://github-readme-stats.vercel.app/api/pin/?username=GallamQ&repo=hub-formation&title_color=9A0404&icon_color=9A0404&text_color=374151&bg_color=ffffff&cache_seconds=86400)](https://github.com/GallamQ/hub-formation)
 
 </td>
 <td width="65%" valign="top">
