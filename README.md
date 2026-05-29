@@ -17,14 +17,14 @@ Toujours en quête d'apprentissage, je combine créativité et rigueur technique
 
 <table border="0" cellspacing="0" cellpadding="12">
 <tr>
-<td width="40%" valign="top">
+<td width="60%" valign="top">
 
 **Parcours en communication**
 
 Bachelier en communication (HEPL), j'ai exercé comme community manager chez Granaline puis comme Chargé de Communication à la Ville de Liège — deux ans entre rédaction, coordination d'événements et gestion d'outils numériques.
 
 </td>
-<td width="60%" valign="middle" align="center">
+<td width="40%" valign="middle" align="center">
 
 [![parcours-communication](https://github-readme-stats-opal-gamma-69.vercel.app/api/pin/?username=GallamQ&repo=parcours-communication&title_color=4F049A&icon_color=4F049A&text_color=374151&bg_color=ffffff&cache_seconds=86400)](https://github.com/GallamQ/parcours-communication)
 
@@ -34,12 +34,12 @@ Bachelier en communication (HEPL), j'ai exercé comme community manager chez Gra
 
 <table border="0" cellspacing="0" cellpadding="12">
 <tr>
-<td width="60%" valign="middle" align="center">
+<td width="40%" valign="middle" align="center">
 
 [![hub-formation](https://github-readme-stats-opal-gamma-69.vercel.app/api/pin/?username=GallamQ&repo=hub-formation&title_color=9A0404&icon_color=9A0404&text_color=374151&bg_color=ffffff&cache_seconds=86400)](https://github.com/GallamQ/hub-formation)
 
 </td>
-<td width="40%" valign="top">
+<td width="60%" valign="top">
 
 **HUB Formation**
 
@@ -51,14 +51,14 @@ Via le FOREM, j'ai suivi la formation Développeur Web Full Stack de Technifutur
 
 <table border="0" cellspacing="0" cellpadding="12">
 <tr>
-<td width="40%" valign="top">
+<td width="60%" valign="top">
 
 **Expériences professionnelles**
 
 Huit semaines en startup chez CarWashFlow — dashboard de gestion, intégration Stripe, site public — dans une Clean Architecture exigeante et en grande partie nouvelle pour moi.
 
 </td>
-<td width="60%" valign="middle" align="center">
+<td width="40%" valign="middle" align="center">
 
 [![experiences-professionnelles](https://github-readme-stats-opal-gamma-69.vercel.app/api/pin/?username=GallamQ&repo=experiences-professionnelles&title_color=04369A&icon_color=04369A&text_color=374151&bg_color=ffffff&cache_seconds=86400)](https://github.com/GallamQ/experiences-professionnelles)
 
