@@ -21,7 +21,7 @@ Toujours en quête d'apprentissage, je combine créativité et rigueur technique
 
 **Parcours en communication**
 
-Détenteur d'un bachelier en communication obtenu à la HEPL, j'ai exercé en tant que community manager chez Granaline avant d'intégrer le Service Communication de la Ville de Liège comme Chargé de Communication. Deux années touche-à-tout, entre rédaction, coordination d'événements et gestion d'outils numériques — une expérience qui m'a appris à m'adapter, à produire et à coordonner dans des environnements très différents.
+Bachelier en communication (HEPL), j'ai exercé comme community manager chez Granaline puis comme Chargé de Communication à la Ville de Liège — deux ans entre rédaction, coordination d'événements et gestion d'outils numériques.
 
 </td>
 <td width="35%" valign="middle" align="center">
@@ -43,7 +43,7 @@ Détenteur d'un bachelier en communication obtenu à la HEPL, j'ai exercé en ta
 
 **HUB Formation**
 
-Via le FOREM, j'ai intégré la formation Développeur Web Full Stack de Technifutur. Des bases algorithmiques aux premiers projets full stack, un rythme intense qui forge autant qu'il enseigne. Et surtout, une façon de penser que l'on ne désapprend plus.
+Via le FOREM, j'ai suivi la formation Développeur Web Full Stack de Technifutur — des bases algorithmiques aux premiers projets full stack, dans un rythme intense qui forge autant qu'il enseigne.
 
 </td>
 </tr>
@@ -55,7 +55,7 @@ Via le FOREM, j'ai intégré la formation Développeur Web Full Stack de Technif
 
 **Expériences professionnelles**
 
-Huit semaines au sein de la startup CarWashFlow, dans un environnement technique exigeant et en grande partie nouveau pour moi. Dashboard interne, intégration Stripe, site web public — le tout dans une Clean Architecture. Une expérience aussi dense qu'enrichissante.
+Huit semaines en startup chez CarWashFlow — dashboard interne, intégration Stripe, site public — dans une Clean Architecture exigeante et en grande partie nouvelle pour moi.
 
 </td>
 <td width="35%" valign="middle" align="center">
