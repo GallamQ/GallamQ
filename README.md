@@ -26,7 +26,7 @@ Détenteur d'un bachelier en communication obtenu à la HEPL, j'ai exercé en ta
 </td>
 <td width="35%" valign="middle" align="center">
 
-[![parcours-communication](https://github-readme-stats.vercel.app/api/pin/?username=GallamQ&repo=parcours-communication&title_color=4F049A&icon_color=4F049A&text_color=374151&bg_color=ffffff&cache_seconds=86400)](https://github.com/GallamQ/parcours-communication)
+[![parcours-communication](https://github-readme-stats-opal-gamma-69.vercel.app/api/pin/?username=GallamQ&repo=parcours-communication&title_color=4F049A&icon_color=4F049A&text_color=374151&bg_color=ffffff&cache_seconds=86400)](https://github.com/GallamQ/parcours-communication)
 
 </td>
 </tr>
@@ -36,7 +36,7 @@ Détenteur d'un bachelier en communication obtenu à la HEPL, j'ai exercé en ta
 <tr>
 <td width="35%" valign="middle" align="center">
 
-[![hub-formation](https://github-readme-stats.vercel.app/api/pin/?username=GallamQ&repo=hub-formation&title_color=9A0404&icon_color=9A0404&text_color=374151&bg_color=ffffff&cache_seconds=86400)](https://github.com/GallamQ/hub-formation)
+[![hub-formation](https://github-readme-stats-opal-gamma-69.vercel.app/api/pin/?username=GallamQ&repo=hub-formation&title_color=9A0404&icon_color=9A0404&text_color=374151&bg_color=ffffff&cache_seconds=86400)](https://github.com/GallamQ/hub-formation)
 
 </td>
 <td width="65%" valign="top">
@@ -60,7 +60,7 @@ Huit semaines au sein de la startup CarWashFlow, dans un environnement technique
 </td>
 <td width="35%" valign="middle" align="center">
 
-[![experiences-professionnelles](https://github-readme-stats.vercel.app/api/pin/?username=GallamQ&repo=experiences-professionnelles&title_color=04369A&icon_color=04369A&text_color=374151&bg_color=ffffff&cache_seconds=86400)](https://github.com/GallamQ/experiences-professionnelles)
+[![experiences-professionnelles](https://github-readme-stats-opal-gamma-69.vercel.app/api/pin/?username=GallamQ&repo=experiences-professionnelles&title_color=04369A&icon_color=04369A&text_color=374151&bg_color=ffffff&cache_seconds=86400)](https://github.com/GallamQ/experiences-professionnelles)
 
 </td>
 </tr>
@@ -72,7 +72,7 @@ Huit semaines au sein de la startup CarWashFlow, dans un environnement technique
 
 <div align="center">
 
-[![Clash Royale Bot](https://github-readme-stats.vercel.app/api/pin/?username=GallamQ&repo=clash-royale-bot&title_color=048b9a&icon_color=048b9a&text_color=374151&bg_color=ffffff&cache_seconds=86400)](https://github.com/GallamQ/clash-royale-bot)
+[![Clash Royale Bot](https://github-readme-stats-opal-gamma-69.vercel.app/api/pin/?username=GallamQ&repo=clash-royale-bot&title_color=048b9a&icon_color=048b9a&text_color=374151&bg_color=ffffff&cache_seconds=86400)](https://github.com/GallamQ/clash-royale-bot)
 
 </div>
 
@@ -85,7 +85,7 @@ Huit semaines au sein de la startup CarWashFlow, dans un environnement technique
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GallamQ&show_icons=true&bg_color=30,ffffff,f8fafc&title_color=048b9a&icon_color=048b9a&text_color=374151&cache_seconds=86400" alt="GallamQ's GitHub stats"/>
+  <img src="https://github-readme-stats-opal-gamma-69.vercel.app/api?username=GallamQ&show_icons=true&bg_color=30,ffffff,f8fafc&title_color=048b9a&icon_color=048b9a&text_color=374151&cache_seconds=86400" alt="GallamQ's GitHub stats"/>
 </p>
 
 ---
